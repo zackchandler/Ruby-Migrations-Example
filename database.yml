@@ -1,0 +1,6 @@
+adapter: mysql
+encoding: utf8
+database: test_database
+username: zackchandler
+password:
+host: localhost
